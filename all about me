@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Portfolio</title>
+</head>
+<body>
+<a href="index.html"><button>Home</button></a>
+<a href="portfolio.html"><button>Portfolio</button></a>
+<a href="about_me.html"><button>About Me!</button></a>
+<h1>This page is all about me!</h1>
+<img src="images/whiteley.jpg" height="250"><br>
+I am <b> Nicole A. Figueroa</b>, A sophmore at C.E. King High School class of 2021 <br> I am 15 years-old, born on July 31,2003. <br> I am in the medicine field on my way to become a pharmacist <br> and am going to enter the Dual Credit Program for my junior year in high school. 
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<

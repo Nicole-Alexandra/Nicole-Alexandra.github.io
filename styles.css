@@ -1,10 +1,10 @@
 body {
-background-image: url('images/railroad.jpg');
-color: #FFFFFF;
+background-image: url('images/sky.jfif');
+color: #FF0000;
 background-size: cover;
 text-align: left;
 vertical-align: bottom;
-text-shadow: #00000;
+text-shadow: #000000;
 }
 .button {
 background-color: #000000;
